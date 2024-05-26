@@ -1,4 +1,6 @@
-## Hi there 👋
+## A mechanical engineer curious about the world of software
+
+I'm currently working on learning how to use GitHub to support the development of a project that involves playing the game of Mahjong using artificial intelligence.
 
 <!--
 **John-Keogh/John-Keogh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
